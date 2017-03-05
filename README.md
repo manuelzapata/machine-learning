@@ -1,2 +1,6 @@
-# machine-learning
-Repository for machine learning code.
+# Machine Learning
+Repository with my code for the Udacity's machine learning nanodegree.
+
+## Folders ##
+
+* titanic_survival_exploration: Exploratory project.
