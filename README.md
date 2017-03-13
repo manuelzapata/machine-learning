@@ -1,6 +1,7 @@
-# Machine Learning
+# Machine learning
 Repository with my code for the Udacity's machine learning nanodegree.
 
-## Folders ##
+## Project folders ##
 
 * titanic_survival_exploration: Exploratory project.
+* boston_housing: Project 1. Predicting Boston housing prices.
